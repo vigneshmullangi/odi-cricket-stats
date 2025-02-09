@@ -6,9 +6,8 @@ This project is a Tableau Dashboard that visualizes One Day International (ODI) 
 - <a href="https://github.com/vigneshmullangi/odi-cricket-stats/blob/main/Dashboard%201.png">ODI cricket stats</a>
 
 # 📌 Overview
-The dashboard includes:
-
-Matches Won By Team: A treemap visualization showing the number of matches won by different teams.
+ # The dashboard includes:
+# Matches Won By Team: A treemap visualization showing the number of matches won by different teams.
 Matches Lost By Team: A bubble chart representing the matches lost by teams.
 Teams Participated: A geographical map displaying all teams that have participated in ODI cricket.
 Top 10 Batsmen: A bar chart representing the top 10 batsmen based on total runs scored.
