@@ -5,7 +5,7 @@ This project is a Tableau Dashboard that visualizes One Day International (ODI) 
 ## DashBoard 
 - <a href="https://github.com/vigneshmullangi/odi-cricket-stats/blob/main/Dashboard%201.png">ODI cricket stats</a>
 
-#📌 Overview
+# 📌 Overview
 The dashboard includes:
 
 Matches Won By Team: A treemap visualization showing the number of matches won by different teams.
@@ -15,12 +15,12 @@ Top 10 Batsmen: A bar chart representing the top 10 batsmen based on total runs 
 Best Batting Average: A comparative chart showing batting averages of top-performing batsmen.
 Top 10 Bowlers: A bar chart displaying the top 10 bowlers based on total wickets taken.
 
-#📊 Technologies Used
+# 📊 Technologies Used
 Tableau: For data visualization and dashboard creation.
 Data Preprocessing & Cleaning: Handled using Python (Pandas, NumPy) before importing the data into Tableau.
 Dataset: The dataset includes ODI cricket match statistics, players' performance.
 
-#🚀 Features
+# 🚀 Features
 ✅ Interactive data visualizations
 ✅ Insights into team and player performance
 ✅ Geospatial mapping of participating teams
