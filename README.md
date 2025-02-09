@@ -26,7 +26,7 @@ The dashboard includes:
 
 - **Tableau** – For data visualization and dashboard creation.  
 - **Python (Pandas, NumPy)** – For data preprocessing and cleaning before importing into Tableau.  
-- **Dataset** – Includes ODI cricket match statistics, players' performance, and team standings.  
+- **Dataset** – Includes ODI cricket match statistics, players performance.  
 
 ---
 
@@ -39,4 +39,4 @@ The dashboard includes:
 
 ---
 
-Feel free to fork this repository and contribute by improving visualizations or adding new insights! 🚀  
+
