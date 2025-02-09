@@ -3,4 +3,4 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 ## Dataset Used
 - <a href="https://www.kaggle.com/datasets/decentralized/cricsheet-odi-cricket-data?select=batter_player_stats.csv">ODI Cricket Data</a>
 ## DashBoard 
-- <a href="https://github.com/vigneshmullangi/odi-cricket-stats/blob/main/Dashboard%201.png"></a>
+- <a href="https://github.com/vigneshmullangi/odi-cricket-stats/blob/main/Dashboard%201.png">ODI cricket stats</a>
